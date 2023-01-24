@@ -94,7 +94,7 @@ body {
 
 @keyframes cloud-right-move {
   100% {
-    right: 100%;
+    right: 110%;
   }
 }
 
