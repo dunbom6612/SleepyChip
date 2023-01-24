@@ -77,12 +77,12 @@ body {
 .cloud.left {
   margin-top: 70px;
   left: -50%;
-  animation: cloud-left-move 22s infinite;
+  animation: cloud-left-move 20s infinite;
 }
 .cloud.right {
   margin-top: 200px;
   right: -50%;
-  animation: cloud-right-move 18s infinite;
+  animation: cloud-right-move 20s infinite;
   transform: scale(0.5);
 }
 
